@@ -1,0 +1,7 @@
+{
+  "name": "SM51Min",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
